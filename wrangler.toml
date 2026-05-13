@@ -6,7 +6,3 @@ compatibility_date = "2026-05-13"
 binding = "DB"
 database_name = "ucimznam"
 database_id = "REPLACE_WITH_YOUR_DATABASE_ID"
-
-[vars]
-TEACHER_TOKEN = "REPLACE_WITH_STRONG_TOKEN"
-STUDENT_TOKEN_SECRET = "REPLACE_WITH_STRONG_SECRET"
